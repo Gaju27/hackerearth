@@ -8,3 +8,7 @@
 2. [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)
    
    [C]() , [Cpp]() , [Java](https://github.com/Gaju27/hackerearth/blob/main/Java/Java_datatypes.java) , [Python]()
+   
+3. [Java-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem)
+      
+   [C]() , [Cpp]() , [Java](https://github.com/Gaju27/hackerearth/blob/main/Java/Java%20End-of-file.java) , [Python]()
